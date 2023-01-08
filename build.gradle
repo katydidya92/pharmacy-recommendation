@@ -36,6 +36,8 @@ dependencies {
     // spring retry
     implementation 'org.springframework.retry:spring-retry'
 
+    implementation 'pl.allegro.tech.boot:handlebars-spring-boot-starter:0.3.4'
+
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
     testImplementation 'org.spockframework:spock-core:2.1-groovy-3.0'
